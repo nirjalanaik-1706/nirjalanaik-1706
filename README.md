@@ -71,17 +71,17 @@
 
 ## 📊 GitHub Stats  
 
-![Nirjala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirjalanaik1706&show_icons=true&theme=github_dark)  
+![Nirjala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirjalanaik-1706&show_icons=true&theme=github_dark)  
 
 ---
 ## 👀 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirjalanaik1706&layout=compact&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirjalanaik-1706&layout=compact&theme=github_dark)  
 
 ----
 
 ## 🔥 GitHub Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nirjalanaik1706&theme=github-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nirjalanaik-1706&theme=github-dark&hide_border=true)
 
 ---
 ## 🌐 Connect With Me
